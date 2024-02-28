@@ -30,8 +30,6 @@ Business Automation ist das Beste, was es gibt. Alle wollen das haben und keiner
 [![max](pictures/max.png){ style="height:50%;width:50%;" align=right }](mailto:maximilian.burkardt@ibm.com)
 Artificial Intelligence ist nicht nur cool, sondern mega-geil und alle Menschen wollen AI in ihren Geräten, in ihren Business Prozessen und überall, wo es funktionieren kann. Nicht vergessen das klassische Business Analytics, weil das nach wie vor auch verrwendet wird
 
-
-
 <!-- | [Business Automation](BA.md) | [Information Architecture](IA.md) | [Artificial Intelligence](AI.md) | -->
 <!-- | :-------------------------:  | :-------------------------------: | :------------------------------: | -->
 <!-- | [![only_isabel](pictures/only_isabel.png)](BA.md) [Isabel Petrick](BA.md) | [![only_angel](pictures/only_angel.png)](IA.md) [Angel González](IA.md) | ![only_max](pictures/only_max.png) [Maximilian Burkhard](AI.md) | -->
