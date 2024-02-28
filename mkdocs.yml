@@ -1,14 +1,9 @@
 # Project Information
-site_name: "Information Architecture - Artificial Intelligence - Business Automation"
+site_name: "IBM Team Data & AI & BA"
 # site_url: "https://angel-ibm.github.io/2024"
 site_description: Information Architecture - Artificial Intelligence - Business Automation
 site_author: "Angel Gonzalez"
 
-nav:
-  - Introduction: index.md
-  - Artificial Intelligence: AI.md
-  - Information Architecture: IA.md
-  - Business Automation: BA.md
 
 # Repository Information
 repo_name: 'angel-ibm/2024'
