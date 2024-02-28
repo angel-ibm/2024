@@ -1,0 +1,112 @@
+# Project Information
+site_name: "Information Architecture - Artificial Intelligence - Business Automation"
+# site_url: "https://angel-ibm.github.io/2024"
+site_description: Information Architecture - Artificial Intelligence - Business Automation
+site_author: "Angel Gonzalez"
+
+nav:
+  - Introduction: index.md
+  - Artificial Intelligence: AI.md
+  - Information Architecture: IA.md
+  - Business Automation: BA.md
+
+# Repository Information
+repo_name: 'angel-ibm/2024'
+repo_url: 'https://github.com/angel-ibm/2024'
+edit_uri: 'https://github.com/angel-ibm/2024'
+docs_dir: 'docs'
+site_dir: 'site'
+remote_branch: 'gh-pages'
+remote_name: 'origin'
+
+theme:
+  palette:
+    - scheme: default
+      primary: black
+      accent: blue
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: 'IBM Plex Sans'
+    code: 'IBM Plex Mono'
+  favicon: 'pictures/logo-ibm.png'
+  logo: 'pictures/logo-ibm.png'
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    # - toc.integrate
+    - search.suggest
+    - search.highlight
+    - header.autohide
+    - content.code.copy
+    - content.code.select
+    - content.tabs.link
+
+plugins:
+  - search
+  - inline-svg
+  - mkdocs-jupyter:
+      ignore_h1_titles: True
+  - table-reader
+  - mkdocs-video
+  - markdown-exec
+
+markdown_extensions:
+  - tables
+  - abbr
+  - footnotes
+  - admonition
+  - attr_list
+  - def_list
+  - md_in_html
+  - meta
+  - toc:
+      permalink: true 
+      toc_depth: 4     
+  - smarty:
+      smart_quotes: false
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+extra:
+  homepage: https://www.ibm.com
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/angel-ibm/2024
+    - icon: fontawesome/solid/globe
+      link: https://angel-ibm.github.io/2024
+
+
+copyright: Copyright &copy; 2024 Angel González - IBM Germany
