@@ -11,23 +11,23 @@ Mit dieser kurzen Video möchten wir uns kurz vorstellen und Sie über die Techn
 ### **Ihrer zentraler Ansprechpartner**
 
 [![julius](pictures/julius.png){ style="height:50%;width:50%;" align=left }](mailto:julius.sommer@ibm.com)
- Ich bin Ihren Kontakt für alle Ihre Anliegen und, gemeinsam mit meinem technischen Team, kümmere mich um den Erfolg von Ihren Projekten. Bitte zögern Sie nicht, mich zu kontaktieren und ich freue mich auf die Zusammenarbeit
+ Ich bin Ihrer Kontakt für alle Ihre Anliegen und, gemeinsam mit meinem technischen Team, kümmere mich um den Erfolg von Ihren Projekten. Bitte zögern Sie nicht, mich zu kontaktieren und ich freue mich auf die Zusammenarbeit
 
 ### **Information Architecture**
 
-[![angel](pictures/angel.png){ style="height:50%;width:50%;" align=right }](mailto:angelito@deibm.com)
+[![angel](pictures/angel.png){ style="height:50%;width:50%;" align=right }](mailto:angelito@de.ibm.com)
 
 Dieser Bereich fasst die Datenhaltung, Datenflüßen, Data Governance und auch noch zusätliche Werkzeuge um.  Und vieles mehr, was ich hier nicht sagen kann, weil es zu lang wäre und habe keinen Platz
 
 ### **Business Automation**
 
-[![isabel](pictures/isabel.png){ style="height:50%;width:50%;" align=left }](mailto:angelito@deibm.com)
+[![isabel](pictures/isabel.png){ style="height:50%;width:50%;" align=left }](mailto:isabel.petrick@ibm.com)
 
 Business Automation ist das Beste, was es gibt. Alle wollen das haben und keiner kann ohne Business Automation überleben, die Produkte sind absolut genial und alles kostet kaum Geld. Bitte bestellen Sie sofort und Sie werden immer zufrieden sein
 
 ### **Artificial Intelligence**
 
-[![max](pictures/max.png){ style="height:50%;width:50%;" align=right }](mailto:maximilian.burkardt@deibm.com)
+[![max](pictures/max.png){ style="height:50%;width:50%;" align=right }](mailto:maximilian.burkardt@ibm.com)
 Artificial Intelligence ist nicht nur cool, sondern mega-geil und alle Menschen wollen AI in ihren Geräten, in ihren Business Prozessen und überall, wo es funktionieren kann. Nicht vergessen das klassische Business Analytics, weil das nach wie vor auch verrwendet wird
 
 
