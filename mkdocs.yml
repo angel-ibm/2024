@@ -69,6 +69,7 @@ plugins:
       video_muted: False
       video_controls: True
   - markdown-exec
+  - git-authors
 
 markdown_extensions:
   - tables
