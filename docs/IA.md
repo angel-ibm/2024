@@ -1,5 +1,5 @@
 # Information Architecture
 
-Das ist Information Architecture
+## Data Governance
 
-<iframe width="100%" height="800" src="../pdf/datagov.pdf">
+![Alt text](../pdf/datagov.pdf){ type=application/pdf style="min-height:100vh;width:100%" }

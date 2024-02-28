@@ -62,7 +62,12 @@ plugins:
   - mkdocs-jupyter:
       ignore_h1_titles: True
   - table-reader
-  - mkdocs-video
+  - mkdocs-pdf
+  - mkdocs-video:
+      is_video: True
+      video_autoplay: False
+      video_muted: False
+      video_controls: True
   - markdown-exec
 
 markdown_extensions:
